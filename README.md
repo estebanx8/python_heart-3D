@@ -66,6 +66,5 @@ Contributions are welcome! Open an issue or PR for:
 ## License
 
 Open-source. Credit to original author [JETG](https://github.com/estebanx8).
-```
 
 This README provides a concise yet comprehensive overview, emphasizing technical depth while remaining accessible. It highlights the core algorithms, dependencies, and structure, making it easy for developers to understand and extend the project.
